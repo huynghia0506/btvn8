@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "TNCN001",
+    "topic": "Phạm vi điều chỉnh",
+    "target_payer": "Người nộp thuế",
+    "content": "Luật quy định về người nộp thuế, thu nhập chịu thuế, thu nhập được miễn thuế, giảm thuế và căn cứ tính thuế thu nhập cá nhân.",
+    "tax_rate_info": "Không quy định mức thuế riêng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN002",
+    "topic": "Người nộp thuế",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Cá nhân cư trú chịu thuế đối với thu nhập chịu thuế phát sinh trong và ngoài lãnh thổ Việt Nam.",
+    "tax_rate_info": "Thực hiện nghĩa vụ thuế theo từng loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 2 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN003",
+    "topic": "Người nộp thuế",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Cá nhân không cư trú chịu thuế đối với thu nhập chịu thuế phát sinh trong lãnh thổ Việt Nam.",
+    "tax_rate_info": "Thực hiện nghĩa vụ thuế theo Chương III.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 2 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN004",
+    "topic": "Xác định cư trú",
+    "target_payer": "Cá nhân",
+    "content": "Có mặt tại Việt Nam từ 183 ngày trở lên trong năm dương lịch hoặc trong 12 tháng liên tục kể từ ngày đầu tiên có mặt là một điều kiện xác định cá nhân cư trú.",
+    "tax_rate_info": "Phân loại là cá nhân cư trú nếu đáp ứng điều kiện.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 2 khoản 2 điểm a",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN005",
+    "topic": "Xác định cư trú",
+    "target_payer": "Cá nhân",
+    "content": "Có nơi ở thường xuyên tại Việt Nam, gồm nơi đăng ký thường trú hoặc nhà thuê theo hợp đồng có thời hạn, là một điều kiện xác định cá nhân cư trú.",
+    "tax_rate_info": "Phân loại là cá nhân cư trú nếu đáp ứng điều kiện.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 2 khoản 2 điểm b",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN006",
+    "topic": "Xác định cư trú",
+    "target_payer": "Cá nhân",
+    "content": "Người không đáp ứng điều kiện của cá nhân cư trú được xác định là cá nhân không cư trú.",
+    "tax_rate_info": "Áp dụng cách tính thuế dành cho cá nhân không cư trú.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 2 khoản 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN007",
+    "topic": "Thu nhập chịu thuế - Kinh doanh",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Sản xuất, kinh doanh hàng hóa, dịch vụ thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN008",
+    "topic": "Thu nhập chịu thuế - Kinh doanh",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Hành nghề độc lập có giấy phép hoặc chứng chỉ hành nghề thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN009",
+    "topic": "Thu nhập chịu thuế - Kinh doanh",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Đại lý, môi giới, hợp tác kinh doanh với tổ chức thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN010",
+    "topic": "Thu nhập chịu thuế - Kinh doanh",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Thương mại điện tử và kinh doanh trên nền tảng số thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN011",
+    "topic": "Thu nhập chịu thuế - Tiền lương, tiền công",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Tiền lương, tiền công và khoản có tính chất tiền lương, tiền công thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN012",
+    "topic": "Thu nhập chịu thuế - Tiền lương, tiền công",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Tiền thù lao và lợi ích bằng tiền hoặc không bằng tiền thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN013",
+    "topic": "Thu nhập chịu thuế - Đầu tư vốn",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Tiền lãi cho vay thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN014",
+    "topic": "Thu nhập chịu thuế - Đầu tư vốn",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Lợi tức cổ phần thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN015",
+    "topic": "Thu nhập chịu thuế - Chuyển nhượng vốn",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Chuyển nhượng phần vốn trong tổ chức kinh tế thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN016",
+    "topic": "Thu nhập chịu thuế - Chuyển nhượng vốn",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Chuyển nhượng chứng khoán thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN017",
+    "topic": "Thu nhập chịu thuế - Chuyển nhượng bất động sản",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Chuyển nhượng quyền sử dụng đất và tài sản gắn liền với đất thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN018",
+    "topic": "Thu nhập chịu thuế - Chuyển nhượng bất động sản",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Chuyển nhượng quyền sở hữu hoặc sử dụng nhà ở thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN019",
+    "topic": "Thu nhập chịu thuế - Trúng thưởng",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Xổ số, khuyến mại, đặt cược, trò chơi hoặc cuộc thi có thưởng thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN020",
+    "topic": "Thu nhập chịu thuế - Tiền bản quyền",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Chuyển giao, chuyển quyền sử dụng quyền sở hữu trí tuệ hoặc chuyển giao công nghệ thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN021",
+    "topic": "Thu nhập chịu thuế - Nhượng quyền",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Nhượng quyền thương mại thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN022",
+    "topic": "Thu nhập chịu thuế - Thừa kế, quà tặng",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Chứng khoán, phần vốn, bất động sản và tài sản phải đăng ký sở hữu hoặc sử dụng thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN023",
+    "topic": "Thu nhập chịu thuế - Thu nhập khác",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Chuyển nhượng tên miền quốc gia Việt Nam .vn thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN024",
+    "topic": "Thu nhập chịu thuế - Thu nhập khác",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Chuyển nhượng kết quả giảm phát thải khí nhà kính hoặc tín chỉ các-bon thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN025",
+    "topic": "Thu nhập chịu thuế - Thu nhập khác",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Chuyển nhượng biển số xe trúng đấu giá thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN026",
+    "topic": "Thu nhập chịu thuế - Thu nhập khác",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Chuyển nhượng tài sản số thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN027",
+    "topic": "Thu nhập chịu thuế - Thu nhập khác",
+    "target_payer": "Cá nhân có thu nhập",
+    "content": "Chuyển nhượng vàng miếng theo ngưỡng và thời điểm do Chính phủ quy định thuộc nhóm thu nhập chịu thuế thu nhập cá nhân, trừ trường hợp được miễn theo luật.",
+    "tax_rate_info": "Mức thuế xác định theo quy định tương ứng với loại thu nhập.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN028",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Chuyển nhượng, thừa kế hoặc quà tặng là bất động sản giữa các thành viên gia đình thuộc diện luật quy định được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN029",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Chuyển nhượng nhà ở, đất ở duy nhất tại Việt Nam khi đáp ứng điều kiện được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN030",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Giá trị quyền sử dụng đất được Nhà nước giao cho cá nhân được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN031",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Thu nhập của hộ, cá nhân trực tiếp sản xuất nông, lâm, ngư nghiệp chưa qua chế biến hoặc chỉ sơ chế thông thường và sản xuất muối được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN032",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Chuyển đổi đất nông nghiệp được Nhà nước giao để sản xuất được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN033",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Lãi trái phiếu Chính phủ, trái phiếu chính quyền địa phương, tiền gửi tại tổ chức tín dụng và hợp đồng bảo hiểm nhân thọ được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN034",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Kiều hối được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN035",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Tiền lương làm ban đêm, làm thêm giờ và tiền trả cho ngày không nghỉ phép theo quy định được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN036",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Lương hưu do quỹ bảo hiểm xã hội, quỹ hưu trí bổ sung hoặc quỹ hưu trí tự nguyện chi trả được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN037",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Học bổng từ ngân sách nhà nước hoặc chương trình hỗ trợ khuyến học được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN038",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Bồi thường bảo hiểm, tai nạn lao động, bồi thường nhà nước và khoản bồi thường khác theo pháp luật được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN039",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Khoản nhận từ tổ chức, quỹ từ thiện hợp pháp hoạt động không vì lợi nhuận được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN040",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Viện trợ nước ngoài vì mục đích từ thiện, nhân đạo đã được phê duyệt được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN041",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Tiền lương, tiền công của thuyền viên Việt Nam làm việc cho hãng tàu vận tải quốc tế được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN042",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Thu nhập trực tiếp phục vụ khai thác, đánh bắt thủy sản xa bờ của người thuộc diện luật quy định được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN043",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Chuyển nhượng lần đầu kết quả giảm phát thải, tín chỉ các-bon; lãi và chuyển nhượng lần đầu trái phiếu xanh được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN044",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Tiền lương, tiền công từ thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN045",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Quyền tác giả của nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo khi kết quả được thương mại hóa được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN046",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Thu nhập của nhà đầu tư, chuyên gia, sáng lập viên thuộc dự án hoặc quỹ khởi nghiệp sáng tạo theo quy định được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN047",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Thu nhập của chuyên gia và cá nhân làm việc cho một số chương trình ODA, dự án phi chính phủ, tổ chức Liên hợp quốc hoặc lực lượng gìn giữ hòa bình được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN048",
+    "topic": "Thu nhập được miễn thuế",
+    "target_payer": "Cá nhân đáp ứng điều kiện",
+    "content": "Thu nhập sau thuế thu nhập doanh nghiệp của chủ doanh nghiệp tư nhân hoặc chủ công ty trách nhiệm hữu hạn một thành viên được miễn thuế thu nhập cá nhân khi đáp ứng đầy đủ điều kiện pháp luật.",
+    "tax_rate_info": "Miễn thuế thu nhập cá nhân.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN049",
+    "topic": "Giảm thuế do khó khăn",
+    "target_payer": "Người nộp thuế bị thiệt hại",
+    "content": "Người nộp thuế gặp khó khăn do thiên tai, dịch bệnh, hỏa hoạn, tai nạn hoặc bệnh hiểm nghèo ảnh hưởng khả năng nộp thuế.",
+    "tax_rate_info": "Được giảm tương ứng mức thiệt hại nhưng không vượt số thuế phải nộp.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 5 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN050",
+    "topic": "Ưu đãi nhân lực số",
+    "target_payer": "Nhân lực công nghiệp công nghệ số chất lượng cao",
+    "content": "Thu nhập từ tiền lương, tiền công thuộc các dự án và hoạt động công nghiệp công nghệ số đủ điều kiện.",
+    "tax_rate_info": "Miễn thuế trong 05 năm.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 5 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN051",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 2 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 0.10 triệu đồng; thuế suất biên 5%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN052",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 4 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 0.20 triệu đồng; thuế suất biên 5%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN053",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 6 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 0.30 triệu đồng; thuế suất biên 5%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN054",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 8 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 0.40 triệu đồng; thuế suất biên 5%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN055",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 10 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 0.50 triệu đồng; thuế suất biên 5%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN056",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 12 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 0.70 triệu đồng; thuế suất biên 10%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN057",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 14 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 0.90 triệu đồng; thuế suất biên 10%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN058",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 16 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 1.10 triệu đồng; thuế suất biên 10%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN059",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 18 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 1.30 triệu đồng; thuế suất biên 10%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN060",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 20 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 1.50 triệu đồng; thuế suất biên 10%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN061",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 22 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 1.70 triệu đồng; thuế suất biên 10%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN062",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 24 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 1.90 triệu đồng; thuế suất biên 10%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN063",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 26 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 2.10 triệu đồng; thuế suất biên 10%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN064",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 28 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 2.30 triệu đồng; thuế suất biên 10%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN065",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 30 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 2.50 triệu đồng; thuế suất biên 10%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN066",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 32 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 2.90 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN067",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 34 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 3.30 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN068",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 36 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 3.70 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN069",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 38 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 4.10 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN070",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 40 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 4.50 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN071",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 42 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 4.90 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN072",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 44 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 5.30 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN073",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 46 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 5.70 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN074",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 48 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 6.10 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN075",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 50 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 6.50 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN076",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 52 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 6.90 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN077",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 54 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 7.30 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN078",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 56 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 7.70 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN079",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 58 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 8.10 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN080",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 60 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 8.50 triệu đồng; thuế suất biên 20%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN081",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 62 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 9.10 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN082",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 64 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 9.70 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN083",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 66 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 10.30 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN084",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 68 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 10.90 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN085",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 70 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 11.50 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN086",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 72 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 12.10 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN087",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 74 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 12.70 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN088",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 76 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 13.30 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN089",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 78 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 13.90 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN090",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 80 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 14.50 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN091",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 82 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 15.10 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN092",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 84 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 15.70 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN093",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 86 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 16.30 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN094",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 88 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 16.90 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN095",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 90 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 17.50 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN096",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 92 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 18.10 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN097",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 94 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 18.70 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN098",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 96 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 19.30 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN099",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 98 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 19.90 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN100",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 100 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 20.50 triệu đồng; thuế suất biên 30%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN101",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 102 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 21.20 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN102",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 104 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 21.90 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN103",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 106 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 22.60 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN104",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 108 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 23.30 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN105",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 110 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 24.00 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN106",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 112 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 24.70 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN107",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 114 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 25.40 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN108",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 116 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 26.10 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN109",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 118 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 26.80 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN110",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 120 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 27.50 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN111",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 122 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 28.20 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN112",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 124 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 28.90 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN113",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 126 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 29.60 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN114",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 128 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 30.30 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN115",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 130 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 31.00 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN116",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 132 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 31.70 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN117",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 134 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 32.40 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN118",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 136 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 33.10 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN119",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 138 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 33.80 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN120",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 140 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 34.50 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN121",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 142 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 35.20 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN122",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 144 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 35.90 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN123",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 146 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 36.60 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN124",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 148 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 37.30 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN125",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 150 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 38.00 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN126",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 152 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 38.70 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN127",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 154 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 39.40 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN128",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 156 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 40.10 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN129",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 158 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 40.80 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN130",
+    "topic": "Tiền lương, tiền công - ví dụ biểu thuế tháng",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ tiền lương, tiền công là 160 triệu đồng/tháng, sau khi đã trừ các khoản được phép.",
+    "tax_rate_info": "Thuế theo biểu lũy tiến từng phần khoảng 41.50 triệu đồng; thuế suất biên 35%.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 8 và Điều 9",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN131",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 20 triệu đồng/tháng và có 0 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 15.5 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 4.5 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN132",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 25 triệu đồng/tháng và có 0 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 15.5 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 9.5 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN133",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 30 triệu đồng/tháng và có 0 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 15.5 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 14.5 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN134",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 35 triệu đồng/tháng và có 0 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 15.5 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 19.5 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN135",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 40 triệu đồng/tháng và có 0 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 15.5 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 24.5 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN136",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 45 triệu đồng/tháng và có 0 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 15.5 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 29.5 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN137",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 50 triệu đồng/tháng và có 0 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 15.5 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 34.5 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN138",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 55 triệu đồng/tháng và có 0 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 15.5 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 39.5 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN139",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 60 triệu đồng/tháng và có 0 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 15.5 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 44.5 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN140",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 65 triệu đồng/tháng và có 0 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 15.5 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 49.5 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN141",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 20 triệu đồng/tháng và có 1 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 21.7 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 0.0 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN142",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 25 triệu đồng/tháng và có 1 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 21.7 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 3.3 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN143",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 30 triệu đồng/tháng và có 1 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 21.7 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 8.3 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN144",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 35 triệu đồng/tháng và có 1 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 21.7 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 13.3 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN145",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 40 triệu đồng/tháng và có 1 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 21.7 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 18.3 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN146",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 45 triệu đồng/tháng và có 1 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 21.7 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 23.3 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN147",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 50 triệu đồng/tháng và có 1 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 21.7 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 28.3 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN148",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 55 triệu đồng/tháng và có 1 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 21.7 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 33.3 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN149",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 60 triệu đồng/tháng và có 1 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 21.7 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 38.3 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN150",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 65 triệu đồng/tháng và có 1 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 21.7 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 43.3 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN151",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 20 triệu đồng/tháng và có 2 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 27.9 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 0.0 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN152",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 25 triệu đồng/tháng và có 2 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 27.9 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 0.0 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN153",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 30 triệu đồng/tháng và có 2 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 27.9 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 2.1 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN154",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 35 triệu đồng/tháng và có 2 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 27.9 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 7.1 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN155",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 40 triệu đồng/tháng và có 2 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 27.9 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 12.1 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN156",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 45 triệu đồng/tháng và có 2 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 27.9 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 17.1 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN157",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 50 triệu đồng/tháng và có 2 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 27.9 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 22.1 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN158",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 55 triệu đồng/tháng và có 2 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 27.9 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 27.1 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN159",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 60 triệu đồng/tháng và có 2 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 27.9 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 32.1 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN160",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 65 triệu đồng/tháng và có 2 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 27.9 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 37.1 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN161",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 20 triệu đồng/tháng và có 3 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 34.1 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 0.0 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN162",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 25 triệu đồng/tháng và có 3 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 34.1 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 0.0 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN163",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 30 triệu đồng/tháng và có 3 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 34.1 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 0.0 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN164",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 35 triệu đồng/tháng và có 3 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 34.1 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 0.9 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN165",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 40 triệu đồng/tháng và có 3 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 34.1 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 5.9 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN166",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 45 triệu đồng/tháng và có 3 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 34.1 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 10.9 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN167",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 50 triệu đồng/tháng và có 3 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 34.1 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 15.9 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN168",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 55 triệu đồng/tháng và có 3 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 34.1 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 20.9 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN169",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 60 triệu đồng/tháng và có 3 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 34.1 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 25.9 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN170",
+    "topic": "Giảm trừ gia cảnh - ví dụ",
+    "target_payer": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công",
+    "content": "Tình huống học tập: thu nhập trước giảm trừ là 65 triệu đồng/tháng và có 3 người phụ thuộc đủ điều kiện; chưa xét bảo hiểm và các khoản giảm trừ khác.",
+    "tax_rate_info": "Giảm trừ gia cảnh 34.1 triệu đồng/tháng; phần còn lại trước các giảm trừ khác là 30.9 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 10",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN171",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 100 triệu đồng từ hoạt động phân phối, cung cấp hàng hóa.",
+    "tax_rate_info": "Thuế suất 0.5%; số thuế minh họa 0.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN172",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 100 triệu đồng từ hoạt động dịch vụ, xây dựng không bao thầu nguyên vật liệu.",
+    "tax_rate_info": "Thuế suất 2%; số thuế minh họa 2.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN173",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 100 triệu đồng từ hoạt động cho thuê tài sản, đại lý bảo hiểm, xổ số hoặc bán hàng đa cấp.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 5.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN174",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 100 triệu đồng từ hoạt động sản xuất, vận tải, dịch vụ gắn với hàng hóa hoặc xây dựng có bao thầu vật liệu.",
+    "tax_rate_info": "Thuế suất 1.5%; số thuế minh họa 1.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN175",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 100 triệu đồng từ hoạt động nội dung số về giải trí, trò chơi, phim, ảnh, nhạc hoặc quảng cáo số.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 5.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN176",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 200 triệu đồng từ hoạt động phân phối, cung cấp hàng hóa.",
+    "tax_rate_info": "Thuế suất 0.5%; số thuế minh họa 1.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN177",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 200 triệu đồng từ hoạt động dịch vụ, xây dựng không bao thầu nguyên vật liệu.",
+    "tax_rate_info": "Thuế suất 2%; số thuế minh họa 4.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN178",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 200 triệu đồng từ hoạt động cho thuê tài sản, đại lý bảo hiểm, xổ số hoặc bán hàng đa cấp.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 10.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN179",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 200 triệu đồng từ hoạt động sản xuất, vận tải, dịch vụ gắn với hàng hóa hoặc xây dựng có bao thầu vật liệu.",
+    "tax_rate_info": "Thuế suất 1.5%; số thuế minh họa 3.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN180",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 200 triệu đồng từ hoạt động nội dung số về giải trí, trò chơi, phim, ảnh, nhạc hoặc quảng cáo số.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 10.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN181",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 300 triệu đồng từ hoạt động phân phối, cung cấp hàng hóa.",
+    "tax_rate_info": "Thuế suất 0.5%; số thuế minh họa 1.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN182",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 300 triệu đồng từ hoạt động dịch vụ, xây dựng không bao thầu nguyên vật liệu.",
+    "tax_rate_info": "Thuế suất 2%; số thuế minh họa 6.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN183",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 300 triệu đồng từ hoạt động cho thuê tài sản, đại lý bảo hiểm, xổ số hoặc bán hàng đa cấp.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 15.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN184",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 300 triệu đồng từ hoạt động sản xuất, vận tải, dịch vụ gắn với hàng hóa hoặc xây dựng có bao thầu vật liệu.",
+    "tax_rate_info": "Thuế suất 1.5%; số thuế minh họa 4.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN185",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 300 triệu đồng từ hoạt động nội dung số về giải trí, trò chơi, phim, ảnh, nhạc hoặc quảng cáo số.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 15.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN186",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 400 triệu đồng từ hoạt động phân phối, cung cấp hàng hóa.",
+    "tax_rate_info": "Thuế suất 0.5%; số thuế minh họa 2.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN187",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 400 triệu đồng từ hoạt động dịch vụ, xây dựng không bao thầu nguyên vật liệu.",
+    "tax_rate_info": "Thuế suất 2%; số thuế minh họa 8.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN188",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 400 triệu đồng từ hoạt động cho thuê tài sản, đại lý bảo hiểm, xổ số hoặc bán hàng đa cấp.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 20.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN189",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 400 triệu đồng từ hoạt động sản xuất, vận tải, dịch vụ gắn với hàng hóa hoặc xây dựng có bao thầu vật liệu.",
+    "tax_rate_info": "Thuế suất 1.5%; số thuế minh họa 6.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN190",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 400 triệu đồng từ hoạt động nội dung số về giải trí, trò chơi, phim, ảnh, nhạc hoặc quảng cáo số.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 20.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN191",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 500 triệu đồng từ hoạt động phân phối, cung cấp hàng hóa.",
+    "tax_rate_info": "Thuế suất 0.5%; số thuế minh họa 2.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN192",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 500 triệu đồng từ hoạt động dịch vụ, xây dựng không bao thầu nguyên vật liệu.",
+    "tax_rate_info": "Thuế suất 2%; số thuế minh họa 10.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN193",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 500 triệu đồng từ hoạt động cho thuê tài sản, đại lý bảo hiểm, xổ số hoặc bán hàng đa cấp.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 25.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN194",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 500 triệu đồng từ hoạt động sản xuất, vận tải, dịch vụ gắn với hàng hóa hoặc xây dựng có bao thầu vật liệu.",
+    "tax_rate_info": "Thuế suất 1.5%; số thuế minh họa 7.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN195",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 500 triệu đồng từ hoạt động nội dung số về giải trí, trò chơi, phim, ảnh, nhạc hoặc quảng cáo số.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 25.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN196",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 600 triệu đồng từ hoạt động phân phối, cung cấp hàng hóa.",
+    "tax_rate_info": "Thuế suất 0.5%; số thuế minh họa 3.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN197",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 600 triệu đồng từ hoạt động dịch vụ, xây dựng không bao thầu nguyên vật liệu.",
+    "tax_rate_info": "Thuế suất 2%; số thuế minh họa 12.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN198",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 600 triệu đồng từ hoạt động cho thuê tài sản, đại lý bảo hiểm, xổ số hoặc bán hàng đa cấp.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 30.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN199",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 600 triệu đồng từ hoạt động sản xuất, vận tải, dịch vụ gắn với hàng hóa hoặc xây dựng có bao thầu vật liệu.",
+    "tax_rate_info": "Thuế suất 1.5%; số thuế minh họa 9.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN200",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 600 triệu đồng từ hoạt động nội dung số về giải trí, trò chơi, phim, ảnh, nhạc hoặc quảng cáo số.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 30.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN201",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 700 triệu đồng từ hoạt động phân phối, cung cấp hàng hóa.",
+    "tax_rate_info": "Thuế suất 0.5%; số thuế minh họa 3.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN202",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 700 triệu đồng từ hoạt động dịch vụ, xây dựng không bao thầu nguyên vật liệu.",
+    "tax_rate_info": "Thuế suất 2%; số thuế minh họa 14.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN203",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 700 triệu đồng từ hoạt động cho thuê tài sản, đại lý bảo hiểm, xổ số hoặc bán hàng đa cấp.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 35.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN204",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 700 triệu đồng từ hoạt động sản xuất, vận tải, dịch vụ gắn với hàng hóa hoặc xây dựng có bao thầu vật liệu.",
+    "tax_rate_info": "Thuế suất 1.5%; số thuế minh họa 10.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN205",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 700 triệu đồng từ hoạt động nội dung số về giải trí, trò chơi, phim, ảnh, nhạc hoặc quảng cáo số.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 35.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN206",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 800 triệu đồng từ hoạt động phân phối, cung cấp hàng hóa.",
+    "tax_rate_info": "Thuế suất 0.5%; số thuế minh họa 4.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN207",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 800 triệu đồng từ hoạt động dịch vụ, xây dựng không bao thầu nguyên vật liệu.",
+    "tax_rate_info": "Thuế suất 2%; số thuế minh họa 16.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN208",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 800 triệu đồng từ hoạt động cho thuê tài sản, đại lý bảo hiểm, xổ số hoặc bán hàng đa cấp.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 40.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN209",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 800 triệu đồng từ hoạt động sản xuất, vận tải, dịch vụ gắn với hàng hóa hoặc xây dựng có bao thầu vật liệu.",
+    "tax_rate_info": "Thuế suất 1.5%; số thuế minh họa 12.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN210",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 800 triệu đồng từ hoạt động nội dung số về giải trí, trò chơi, phim, ảnh, nhạc hoặc quảng cáo số.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 40.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN211",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 900 triệu đồng từ hoạt động phân phối, cung cấp hàng hóa.",
+    "tax_rate_info": "Thuế suất 0.5%; số thuế minh họa 4.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN212",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 900 triệu đồng từ hoạt động dịch vụ, xây dựng không bao thầu nguyên vật liệu.",
+    "tax_rate_info": "Thuế suất 2%; số thuế minh họa 18.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN213",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 900 triệu đồng từ hoạt động cho thuê tài sản, đại lý bảo hiểm, xổ số hoặc bán hàng đa cấp.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 45.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN214",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 900 triệu đồng từ hoạt động sản xuất, vận tải, dịch vụ gắn với hàng hóa hoặc xây dựng có bao thầu vật liệu.",
+    "tax_rate_info": "Thuế suất 1.5%; số thuế minh họa 13.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN215",
+    "topic": "Thu nhập từ kinh doanh - ví dụ theo doanh thu",
+    "target_payer": "Cá nhân cư trú đủ điều kiện chọn phương pháp theo doanh thu",
+    "content": "Tình huống học tập: phần doanh thu tính thuế là 900 triệu đồng từ hoạt động nội dung số về giải trí, trò chơi, phim, ảnh, nhạc hoặc quảng cáo số.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 45.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 7 khoản 3",
+    "effective_date": "2026-01-01"
+  },
+  {
+    "id": "TNCN216",
+    "topic": "Thu nhập từ đầu tư vốn - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ đầu tư vốn là 20 triệu đồng theo một lần phát sinh.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 1.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 12",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN217",
+    "topic": "Thu nhập từ đầu tư vốn - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ đầu tư vốn là 30 triệu đồng theo một lần phát sinh.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 1.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 12",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN218",
+    "topic": "Thu nhập từ đầu tư vốn - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ đầu tư vốn là 40 triệu đồng theo một lần phát sinh.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 2.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 12",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN219",
+    "topic": "Thu nhập từ đầu tư vốn - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ đầu tư vốn là 50 triệu đồng theo một lần phát sinh.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 2.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 12",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN220",
+    "topic": "Thu nhập từ đầu tư vốn - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ đầu tư vốn là 60 triệu đồng theo một lần phát sinh.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 3.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 12",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN221",
+    "topic": "Thu nhập từ đầu tư vốn - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ đầu tư vốn là 70 triệu đồng theo một lần phát sinh.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 3.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 12",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN222",
+    "topic": "Thu nhập từ đầu tư vốn - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ đầu tư vốn là 80 triệu đồng theo một lần phát sinh.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 4.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 12",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN223",
+    "topic": "Thu nhập từ đầu tư vốn - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ đầu tư vốn là 90 triệu đồng theo một lần phát sinh.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 4.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 12",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN224",
+    "topic": "Thu nhập từ đầu tư vốn - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ đầu tư vốn là 100 triệu đồng theo một lần phát sinh.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 5.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 12",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN225",
+    "topic": "Thu nhập từ đầu tư vốn - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: thu nhập tính thuế từ đầu tư vốn là 110 triệu đồng theo một lần phát sinh.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 5.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 12",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN226",
+    "topic": "Chuyển nhượng chứng khoán - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng chứng khoán là 100 triệu đồng theo một lần chuyển nhượng.",
+    "tax_rate_info": "Thuế suất 0,1% trên giá chuyển nhượng; số thuế minh họa 0.10 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 13 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN227",
+    "topic": "Chuyển nhượng chứng khoán - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng chứng khoán là 200 triệu đồng theo một lần chuyển nhượng.",
+    "tax_rate_info": "Thuế suất 0,1% trên giá chuyển nhượng; số thuế minh họa 0.20 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 13 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN228",
+    "topic": "Chuyển nhượng chứng khoán - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng chứng khoán là 300 triệu đồng theo một lần chuyển nhượng.",
+    "tax_rate_info": "Thuế suất 0,1% trên giá chuyển nhượng; số thuế minh họa 0.30 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 13 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN229",
+    "topic": "Chuyển nhượng chứng khoán - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng chứng khoán là 400 triệu đồng theo một lần chuyển nhượng.",
+    "tax_rate_info": "Thuế suất 0,1% trên giá chuyển nhượng; số thuế minh họa 0.40 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 13 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN230",
+    "topic": "Chuyển nhượng chứng khoán - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng chứng khoán là 500 triệu đồng theo một lần chuyển nhượng.",
+    "tax_rate_info": "Thuế suất 0,1% trên giá chuyển nhượng; số thuế minh họa 0.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 13 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN231",
+    "topic": "Chuyển nhượng chứng khoán - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng chứng khoán là 600 triệu đồng theo một lần chuyển nhượng.",
+    "tax_rate_info": "Thuế suất 0,1% trên giá chuyển nhượng; số thuế minh họa 0.60 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 13 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN232",
+    "topic": "Chuyển nhượng chứng khoán - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng chứng khoán là 700 triệu đồng theo một lần chuyển nhượng.",
+    "tax_rate_info": "Thuế suất 0,1% trên giá chuyển nhượng; số thuế minh họa 0.70 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 13 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN233",
+    "topic": "Chuyển nhượng chứng khoán - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng chứng khoán là 800 triệu đồng theo một lần chuyển nhượng.",
+    "tax_rate_info": "Thuế suất 0,1% trên giá chuyển nhượng; số thuế minh họa 0.80 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 13 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN234",
+    "topic": "Chuyển nhượng chứng khoán - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng chứng khoán là 900 triệu đồng theo một lần chuyển nhượng.",
+    "tax_rate_info": "Thuế suất 0,1% trên giá chuyển nhượng; số thuế minh họa 0.90 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 13 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN235",
+    "topic": "Chuyển nhượng chứng khoán - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng chứng khoán là 1000 triệu đồng theo một lần chuyển nhượng.",
+    "tax_rate_info": "Thuế suất 0,1% trên giá chuyển nhượng; số thuế minh họa 1.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 13 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN236",
+    "topic": "Chuyển nhượng bất động sản - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng bất động sản là 500 triệu đồng và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Thuế suất 2% trên giá chuyển nhượng; số thuế minh họa 10.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 14",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN237",
+    "topic": "Chuyển nhượng bất động sản - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng bất động sản là 1000 triệu đồng và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Thuế suất 2% trên giá chuyển nhượng; số thuế minh họa 20.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 14",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN238",
+    "topic": "Chuyển nhượng bất động sản - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng bất động sản là 1500 triệu đồng và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Thuế suất 2% trên giá chuyển nhượng; số thuế minh họa 30.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 14",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN239",
+    "topic": "Chuyển nhượng bất động sản - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng bất động sản là 2000 triệu đồng và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Thuế suất 2% trên giá chuyển nhượng; số thuế minh họa 40.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 14",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN240",
+    "topic": "Chuyển nhượng bất động sản - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng bất động sản là 2500 triệu đồng và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Thuế suất 2% trên giá chuyển nhượng; số thuế minh họa 50.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 14",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN241",
+    "topic": "Chuyển nhượng bất động sản - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng bất động sản là 3000 triệu đồng và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Thuế suất 2% trên giá chuyển nhượng; số thuế minh họa 60.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 14",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN242",
+    "topic": "Chuyển nhượng bất động sản - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng bất động sản là 3500 triệu đồng và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Thuế suất 2% trên giá chuyển nhượng; số thuế minh họa 70.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 14",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN243",
+    "topic": "Chuyển nhượng bất động sản - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng bất động sản là 4000 triệu đồng và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Thuế suất 2% trên giá chuyển nhượng; số thuế minh họa 80.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 14",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN244",
+    "topic": "Chuyển nhượng bất động sản - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng bất động sản là 4500 triệu đồng và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Thuế suất 2% trên giá chuyển nhượng; số thuế minh họa 90.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 14",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN245",
+    "topic": "Chuyển nhượng bất động sản - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: giá chuyển nhượng bất động sản là 5000 triệu đồng và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Thuế suất 2% trên giá chuyển nhượng; số thuế minh họa 100.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 14",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN246",
+    "topic": "Trúng thưởng - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 25 triệu đồng từ trúng thưởng theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 5 triệu đồng; thuế suất 10%; số thuế minh họa 0.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 15",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN247",
+    "topic": "Tiền bản quyền - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 25 triệu đồng từ tiền bản quyền theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 5 triệu đồng; thuế suất 5%; số thuế minh họa 0.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 16",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN248",
+    "topic": "Nhượng quyền thương mại - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 25 triệu đồng từ nhượng quyền thương mại theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 5 triệu đồng; thuế suất 5%; số thuế minh họa 0.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 17",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN249",
+    "topic": "Thừa kế, quà tặng - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 25 triệu đồng từ thừa kế, quà tặng theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 5 triệu đồng; thuế suất 10%; số thuế minh họa 0.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 18",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN250",
+    "topic": "Tên miền, tín chỉ các-bon hoặc biển số trúng đấu giá - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 25 triệu đồng từ tên miền, tín chỉ các-bon hoặc biển số trúng đấu giá theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 5 triệu đồng; thuế suất 5%; số thuế minh họa 0.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 19 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN251",
+    "topic": "Trúng thưởng - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 45 triệu đồng từ trúng thưởng theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 25 triệu đồng; thuế suất 10%; số thuế minh họa 2.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 15",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN252",
+    "topic": "Tiền bản quyền - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 45 triệu đồng từ tiền bản quyền theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 25 triệu đồng; thuế suất 5%; số thuế minh họa 1.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 16",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN253",
+    "topic": "Nhượng quyền thương mại - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 45 triệu đồng từ nhượng quyền thương mại theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 25 triệu đồng; thuế suất 5%; số thuế minh họa 1.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 17",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN254",
+    "topic": "Thừa kế, quà tặng - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 45 triệu đồng từ thừa kế, quà tặng theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 25 triệu đồng; thuế suất 10%; số thuế minh họa 2.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 18",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN255",
+    "topic": "Tên miền, tín chỉ các-bon hoặc biển số trúng đấu giá - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 45 triệu đồng từ tên miền, tín chỉ các-bon hoặc biển số trúng đấu giá theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 25 triệu đồng; thuế suất 5%; số thuế minh họa 1.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 19 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN256",
+    "topic": "Trúng thưởng - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 65 triệu đồng từ trúng thưởng theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 45 triệu đồng; thuế suất 10%; số thuế minh họa 4.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 15",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN257",
+    "topic": "Tiền bản quyền - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 65 triệu đồng từ tiền bản quyền theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 45 triệu đồng; thuế suất 5%; số thuế minh họa 2.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 16",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN258",
+    "topic": "Nhượng quyền thương mại - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 65 triệu đồng từ nhượng quyền thương mại theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 45 triệu đồng; thuế suất 5%; số thuế minh họa 2.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 17",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN259",
+    "topic": "Thừa kế, quà tặng - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 65 triệu đồng từ thừa kế, quà tặng theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 45 triệu đồng; thuế suất 10%; số thuế minh họa 4.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 18",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN260",
+    "topic": "Tên miền, tín chỉ các-bon hoặc biển số trúng đấu giá - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 65 triệu đồng từ tên miền, tín chỉ các-bon hoặc biển số trúng đấu giá theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 45 triệu đồng; thuế suất 5%; số thuế minh họa 2.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 19 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN261",
+    "topic": "Trúng thưởng - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 85 triệu đồng từ trúng thưởng theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 65 triệu đồng; thuế suất 10%; số thuế minh họa 6.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 15",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN262",
+    "topic": "Tiền bản quyền - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 85 triệu đồng từ tiền bản quyền theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 65 triệu đồng; thuế suất 5%; số thuế minh họa 3.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 16",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN263",
+    "topic": "Nhượng quyền thương mại - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 85 triệu đồng từ nhượng quyền thương mại theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 65 triệu đồng; thuế suất 5%; số thuế minh họa 3.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 17",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN264",
+    "topic": "Thừa kế, quà tặng - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 85 triệu đồng từ thừa kế, quà tặng theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 65 triệu đồng; thuế suất 10%; số thuế minh họa 6.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 18",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN265",
+    "topic": "Tên miền, tín chỉ các-bon hoặc biển số trúng đấu giá - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 85 triệu đồng từ tên miền, tín chỉ các-bon hoặc biển số trúng đấu giá theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 65 triệu đồng; thuế suất 5%; số thuế minh họa 3.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 19 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN266",
+    "topic": "Trúng thưởng - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 105 triệu đồng từ trúng thưởng theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 85 triệu đồng; thuế suất 10%; số thuế minh họa 8.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 15",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN267",
+    "topic": "Tiền bản quyền - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 105 triệu đồng từ tiền bản quyền theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 85 triệu đồng; thuế suất 5%; số thuế minh họa 4.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 16",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN268",
+    "topic": "Nhượng quyền thương mại - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 105 triệu đồng từ nhượng quyền thương mại theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 85 triệu đồng; thuế suất 5%; số thuế minh họa 4.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 17",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN269",
+    "topic": "Thừa kế, quà tặng - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 105 triệu đồng từ thừa kế, quà tặng theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 85 triệu đồng; thuế suất 10%; số thuế minh họa 8.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 18",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN270",
+    "topic": "Tên miền, tín chỉ các-bon hoặc biển số trúng đấu giá - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 105 triệu đồng từ tên miền, tín chỉ các-bon hoặc biển số trúng đấu giá theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 85 triệu đồng; thuế suất 5%; số thuế minh họa 4.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 19 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN271",
+    "topic": "Trúng thưởng - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 125 triệu đồng từ trúng thưởng theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 105 triệu đồng; thuế suất 10%; số thuế minh họa 10.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 15",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN272",
+    "topic": "Tiền bản quyền - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 125 triệu đồng từ tiền bản quyền theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 105 triệu đồng; thuế suất 5%; số thuế minh họa 5.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 16",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN273",
+    "topic": "Nhượng quyền thương mại - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 125 triệu đồng từ nhượng quyền thương mại theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 105 triệu đồng; thuế suất 5%; số thuế minh họa 5.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 17",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN274",
+    "topic": "Thừa kế, quà tặng - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 125 triệu đồng từ thừa kế, quà tặng theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 105 triệu đồng; thuế suất 10%; số thuế minh họa 10.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 18",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN275",
+    "topic": "Tên miền, tín chỉ các-bon hoặc biển số trúng đấu giá - ví dụ",
+    "target_payer": "Cá nhân cư trú",
+    "content": "Tình huống học tập: cá nhân nhận 125 triệu đồng từ tên miền, tín chỉ các-bon hoặc biển số trúng đấu giá theo một lần hoặc hợp đồng phát sinh và không thuộc diện miễn thuế.",
+    "tax_rate_info": "Phần vượt 20 triệu đồng là 105 triệu đồng; thuế suất 5%; số thuế minh họa 5.25 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 19 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN276",
+    "topic": "Cá nhân không cư trú - tiền lương, tiền công",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 50 triệu đồng từ tiền lương, tiền công tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 20%; số thuế minh họa 10.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 21",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN277",
+    "topic": "Cá nhân không cư trú - đầu tư vốn",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 50 triệu đồng từ đầu tư vốn tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 2.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 22",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN278",
+    "topic": "Cá nhân không cư trú - chuyển nhượng bất động sản",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 50 triệu đồng từ chuyển nhượng bất động sản tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 2%; số thuế minh họa 1.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 24",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN279",
+    "topic": "Cá nhân không cư trú - tiền bản quyền",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 50 triệu đồng từ tiền bản quyền tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 1.50 triệu đồng trên phần vượt 20 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 25 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN280",
+    "topic": "Cá nhân không cư trú - nhượng quyền thương mại",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 50 triệu đồng từ nhượng quyền thương mại tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 1.50 triệu đồng trên phần vượt 20 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 25 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN281",
+    "topic": "Cá nhân không cư trú - tiền lương, tiền công",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 100 triệu đồng từ tiền lương, tiền công tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 20%; số thuế minh họa 20.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 21",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN282",
+    "topic": "Cá nhân không cư trú - đầu tư vốn",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 100 triệu đồng từ đầu tư vốn tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 5.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 22",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN283",
+    "topic": "Cá nhân không cư trú - chuyển nhượng bất động sản",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 100 triệu đồng từ chuyển nhượng bất động sản tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 2%; số thuế minh họa 2.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 24",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN284",
+    "topic": "Cá nhân không cư trú - tiền bản quyền",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 100 triệu đồng từ tiền bản quyền tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 4.00 triệu đồng trên phần vượt 20 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 25 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN285",
+    "topic": "Cá nhân không cư trú - nhượng quyền thương mại",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 100 triệu đồng từ nhượng quyền thương mại tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 4.00 triệu đồng trên phần vượt 20 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 25 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN286",
+    "topic": "Cá nhân không cư trú - tiền lương, tiền công",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 150 triệu đồng từ tiền lương, tiền công tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 20%; số thuế minh họa 30.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 21",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN287",
+    "topic": "Cá nhân không cư trú - đầu tư vốn",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 150 triệu đồng từ đầu tư vốn tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 7.50 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 22",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN288",
+    "topic": "Cá nhân không cư trú - chuyển nhượng bất động sản",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 150 triệu đồng từ chuyển nhượng bất động sản tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 2%; số thuế minh họa 3.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 24",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN289",
+    "topic": "Cá nhân không cư trú - tiền bản quyền",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 150 triệu đồng từ tiền bản quyền tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 6.50 triệu đồng trên phần vượt 20 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 25 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN290",
+    "topic": "Cá nhân không cư trú - nhượng quyền thương mại",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 150 triệu đồng từ nhượng quyền thương mại tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 6.50 triệu đồng trên phần vượt 20 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 25 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN291",
+    "topic": "Cá nhân không cư trú - tiền lương, tiền công",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 200 triệu đồng từ tiền lương, tiền công tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 20%; số thuế minh họa 40.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 21",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN292",
+    "topic": "Cá nhân không cư trú - đầu tư vốn",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 200 triệu đồng từ đầu tư vốn tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 10.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 22",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN293",
+    "topic": "Cá nhân không cư trú - chuyển nhượng bất động sản",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 200 triệu đồng từ chuyển nhượng bất động sản tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 2%; số thuế minh họa 4.00 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 24",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN294",
+    "topic": "Cá nhân không cư trú - tiền bản quyền",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 200 triệu đồng từ tiền bản quyền tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 9.00 triệu đồng trên phần vượt 20 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 25 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN295",
+    "topic": "Cá nhân không cư trú - nhượng quyền thương mại",
+    "target_payer": "Cá nhân không cư trú",
+    "content": "Tình huống học tập: số tiền hoặc giá trị làm căn cứ tính thuế là 200 triệu đồng từ nhượng quyền thương mại tại Việt Nam.",
+    "tax_rate_info": "Thuế suất 5%; số thuế minh họa 9.00 triệu đồng trên phần vượt 20 triệu đồng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 25 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN296",
+    "topic": "Thời điểm tính thuế",
+    "target_payer": "Cá nhân không cư trú có thu nhập kinh doanh",
+    "content": "Thời điểm xác định thu nhập tính thuế là khi nhận thu nhập hoặc khi xuất hóa đơn bán hàng hóa, cung cấp dịch vụ.",
+    "tax_rate_info": "Kê khai và tính thuế tại thời điểm luật quy định.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 28 khoản 1",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN297",
+    "topic": "Thời điểm tính thuế",
+    "target_payer": "Cá nhân không cư trú có thu nhập từ lương, đầu tư vốn, bản quyền, nhượng quyền, trúng thưởng, thừa kế, quà tặng hoặc thu nhập khác",
+    "content": "Thời điểm xác định thu nhập tính thuế là khi tổ chức, cá nhân tại Việt Nam trả thu nhập hoặc khi cá nhân nhận thu nhập.",
+    "tax_rate_info": "Kê khai và tính thuế tại thời điểm luật quy định.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 28 khoản 2",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN298",
+    "topic": "Thời điểm tính thuế",
+    "target_payer": "Cá nhân không cư trú chuyển nhượng vốn",
+    "content": "Thời điểm xác định thu nhập tính thuế là khi giao dịch hoàn thành theo quy định pháp luật.",
+    "tax_rate_info": "Kê khai và tính thuế tại thời điểm luật quy định.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 28 khoản 3",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN299",
+    "topic": "Thời điểm tính thuế",
+    "target_payer": "Cá nhân không cư trú chuyển nhượng bất động sản",
+    "content": "Thời điểm xác định thu nhập tính thuế là khi hợp đồng có hiệu lực hoặc khi đăng ký quyền sử dụng, quyền sở hữu bất động sản.",
+    "tax_rate_info": "Kê khai và tính thuế tại thời điểm luật quy định.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 28 khoản 4",
+    "effective_date": "2026-07-01"
+  },
+  {
+    "id": "TNCN300",
+    "topic": "Hiệu lực thi hành",
+    "target_payer": "Người nộp thuế",
+    "content": "Luật có hiệu lực từ ngày 01/07/2026; quy định liên quan đến kinh doanh, tiền lương và tiền công của cá nhân cư trú áp dụng từ kỳ tính thuế năm 2026.",
+    "tax_rate_info": "Áp dụng theo thời điểm hiệu lực tương ứng.",
+    "source": "Văn bản hợp nhất 112/VBHN-VPQH, Điều 29 khoản 1 và khoản 2",
+    "effective_date": "2026-07-01"
+  }
+]
