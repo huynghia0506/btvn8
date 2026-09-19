@@ -26,8 +26,7 @@ INSTRUCTION = """
 Chỉ trả lời dựa trên dữ liệu được cung cấp.
 Không sử dụng kiến thức ở ngoài
 Không suy đoán
-Trả lời ngắn gọn, dễ hiểu
-Câu trả lời phải các ghi nguồn tham khảo, ngày có hiệu lực
+Trả lời dễ hiểu, bắt buộc phải có nguồn tham khảo, ngày có hiệu lực
 """
 
 def _clean_user_question(question):
